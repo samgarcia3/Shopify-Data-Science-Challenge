@@ -2,5 +2,5 @@
 
 ### Welcome! Thank You for reviewing my Technical Challenge
 
-### I'm sure you are very busy! But dont forget to stand-up and take a break!
+### I'm sure you are very busy! Don't forget to stand-up and take a break!
 
