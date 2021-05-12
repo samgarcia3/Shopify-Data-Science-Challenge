@@ -1,5 +1,5 @@
-# Shopify-Data-Science-Challenge
+# Shopify Internship Data Science Challenge - Fall 2021
 
-# Welcome to my GitHub and Thank You for reviewing my Technical Challenge
+## Welcome to my GitHub and Thank You for reviewing my Technical Challenge
 
-# The challenge is saved to a pdf where you can find it under the ReadMe file named Samuel_Garcia_Tech_Challenge
+### Let's Talk! 
